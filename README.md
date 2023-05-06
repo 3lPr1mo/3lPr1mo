@@ -13,7 +13,7 @@
   <p>
   I'm a BackEnd Developer, currently studying at Distrital University Francisco Jose de Caldas.</br>
   Also learning FrontEnd Techologies.</br>
-  I love to learn new technologies to provide modern solutions.
+  I love learning new technologies to provide modern solutions.
   </p>
 </div>
 
