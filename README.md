@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif" width="200"/>
+</div>
+<h1>Hi 👋, I'm Erick Chaparro</h1>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redooz&theme=material-palenight&,dockerfile" alt="redooz" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redooz&show_icons=true&theme=material-palenight" alt="redooz" /></p>
+
 ### Hi there 👋
 
 <!--
