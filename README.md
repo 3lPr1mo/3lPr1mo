@@ -36,6 +36,6 @@
 </div>
 <hr/>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lPr1mo&theme=material-palenight&,dockerfile" alt="3lPr1mo" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lPr1mo&layout=donut&theme=material-palenight" alt="3lPr1mo" />
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=3lPr1mo&show_icons=true&theme=material-palenight" alt="3lPr1mo" /></p>
 </div>
